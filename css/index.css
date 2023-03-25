@@ -195,7 +195,7 @@ a {
     min-width: auto;
     display: flex;
     justify-content: space-evenly;
-    width: 250px;
+    width: 350px;
   }
   .headflex ul li a {
     font-size: 12px;
