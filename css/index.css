@@ -145,7 +145,7 @@ a {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  width: 400px;
+  width: 500px;
 }
 
 .headflex ul li {
