@@ -721,7 +721,7 @@ a {
 }
 
 .ranges .container .ranges-container .range:first-child::before {
-  content: "\f017";
+  content: "\f59a";
   position: absolute;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -749,7 +749,7 @@ a {
 }
 
 .ranges .container .ranges-container .range:nth-child(2):before {
-  content: "\f00c";
+  content: "\f118";
   position: absolute;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -777,7 +777,7 @@ a {
 }
 
 .ranges .container .ranges-container .range:nth-child(3):before {
-  content: "\f00c";
+  content: "\f11a";
   position: absolute;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -805,7 +805,7 @@ a {
 }
 
 .ranges .container .ranges-container .range:last-child:before {
-  content: "\f02b";
+  content: "\f119";
   position: absolute;
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
